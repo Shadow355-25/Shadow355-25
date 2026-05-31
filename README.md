@@ -4,7 +4,7 @@
 
 ### 🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📊 Data Analyst Enthusiast | ⚙️ Future DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+one+commit+at+a+time+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing+%F0%9F%8C±;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+one+commit+at+a+time+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing+%F0%9F%8C±;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" /> -->
 
 </div>
 
@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name: "[Your Name]"
+name: "[Ranjith S]"
 education: "Bachelor of Computer Applications (BCA)"
 location: "India 🇮🇳"
 status: "Undergraduate Student | Actively Learning"
@@ -126,8 +126,8 @@ I'm a passionate **BCA student** on a mission to become a well-rounded tech prof
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjiths981)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjiths.9901@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
